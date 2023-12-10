@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Making a Website | Izaac&#39;s Website</title>
+	<link rel="canonical" href="https://izaac.mammadov.co.uk">
+	<link rel='alternate' type='application/rss+xml' title="Izaac&#39;s Website RSS" href='/index.xml'>
+	<link rel='stylesheet' type='text/css' href='/style.css'>
+	<link rel="icon" href="/favicon.ico">
+	
+	<meta name="description" content="Overview I recommend everyone set up their own personal website as a space on the internet to share their ideas, publicise their work and give updates about their life. The cost is very little and you don&rsquo;t need to be a particularly technical person to get started.
+In creating this website, I followed the LandChad guide written primarily by Luke Smith. It&rsquo;s very detailed and describes the process step by step, starting from scratch all the way to having a running HTTPS website.">
+	<meta name="keywords" content="Libre Software">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index, follow">
+	<meta charset="utf-8">
+</head>
+<body>
+<main>
+<header><h1 id="tag_Making a Website">Making a Website</h1></header>
+<article>
+
+<h1 id="overview">Overview</h1>
+<p>I recommend everyone set up their own personal website as a space on the internet to share their ideas, publicise their work and give updates about their life. The cost is very little and you don&rsquo;t need to be a particularly technical person to get started.</p>
+<p>In creating this website, I followed the <a href="https://landchad.net/">LandChad</a> guide written primarily by <a href="https://lukesmith.xyz/">Luke Smith</a>. It&rsquo;s very detailed and describes the process step by step, starting from scratch all the way to having a running HTTPS website. On this page, I&rsquo;m not going to repeat what&rsquo;s already in the <a href="https://landchad.net/">LandChad</a> guide, but just try to point things I did differently that worked better for me. If you prefer following along with a video, you can see <a href="https://lukesmith.xyz/">Luke Smith</a> roughly following his guide (and a bit more) on YouTube <a href="https://www.youtube.com/watch?v=3dIVesHEAzc">here</a>.</p>
+<h1 id="dns">DNS</h1>
+<p>I bought and registered my domain name with <a href="https://www.godaddy.com/">GoDaddy</a>. I don&rsquo;t particularly recommend them over any other registrar, it&rsquo;s just that it was the simplest option for me to go for and they tend to have very reasonable prices (as long as you don&rsquo;t opt-in to any of their extra features garbage). The only annoying thing about <a href="https://www.godaddy.com/">GoDaddy</a> is that they stop you from logging-in if you&rsquo;re using a VPN connection.</p>
+<h1 id="vps">VPS</h1>
+<p>Choosing who hosts your VPS is actually an important decision unlike choosing your DNS provider. <a href="https://lukesmith.xyz">Luke Smith</a> is a bit of a <a href="https://www.vultr.com/">Vultr</a> shill (and potentially receives referral fees from them), however I did not have a very good experience with them. Your three main considerations when choosing a VPS are three Ps:</p>
+<ul>
+<li>Price: If you&rsquo;re not expecting heavy traffic or high usage, then you can find VPSs for less than £20 a month.</li>
+<li>Privacy: You preferably want to have the servers that your VPS runs on in a country which respects privacy (i.e. not <a href="https://dhitma.neocities.org/html/eyes">Five Eyes</a>). A lot of VPS hosts also take payment in <a href="https://bitcoin.org/">Bitcoin</a> or <a href="https://www.getmonero.org/">more privacy-protecting cryptocurrencies</a>, which is always a big plus.</li>
+<li>Ports: If you want to also run your own email server on your VPS, then have to allow it as part of their Terms of Service and be willing to unblock the relevant ports (specifically port 25) on your VPS.</li>
+</ul>
+<p><a href="https://www.vultr.com/">Vultr</a> fails mainly on the last P and are generally unwilling to unblock the email port 25 for most people. Many people have <a href="https://github.com/LukeSmithxyz/emailwiz/issues/172">complained</a>, but <a href="https://lukesmith.xyz">Luke Smith</a> still continues to recommend them. Personally, I use <a href="https://host1.no">Host1</a> for my VPS. They&rsquo;re based in Norway and accept payment in <a href="https://bitcoin.org/">Bitcoin</a>. Their current cheapest VPS option is 249 Norwegian Crowns per month, which as of 2023/12/10 translates to £18.20 per month. They also were and potentailly still are the host for <a href="https://wikileaks.org/">WikiLeaks</a>. Be aware that their website is entirely in Norwegian (although they do provide translations) and you will be receiving emails in Norwegian.</p>
+<p>I also chose to have my VPS run <a href="https://archlinux.org/">Arch Linux</a> as opposed to <a href="https://www.debian.org/">Debian</a> which is the typical recommendation, simply because I am running <a href="https://archlinux.org/">Arch</a> on my personal PC and so am more familiar with it. I also found that using <a href="https://wiki.archlinux.org/title/pacman">pacman</a> for installing packages lead to fewer issues. Almost all VPS hosts offer to install both <a href="https://www.debianorg/">Debian</a> and <a href="https://archlinux.org/">Arch</a> on their VPSs.</p>
+<h1 id="securing-your-vps">Securing your VPS</h1>
+<p>If you follow the <a href="https://landchad.net/">LandChad</a> guide successfully, you should end up with a simple website, whose files are in <code>/var/www/*website_name*</code>, being served by <a href="https://www.nginx.com/">NGINX</a>, open to HTTPS connections, whose TLS certificate is signed by <a href="https://letsencrypt.org/">Let&rsquo;s Encrypt</a> via <a href="https://certbot.eff.org/">Certbot</a>. I would then recommend following this <a href="https://landchad.net/sshkeys/">SSH Keys LandChad guide</a> in order to stop chinese hackers constantly trying to guess your <code>root</code> user password and completely disable password log-in for your VPS.</p>
+<h1 id="hugo">Hugo</h1>
+<p>From this point, you can choose to go old-school and write your own HTML and CSS files. Instead, I would recommend using a static-site generator <a href="https://gohugo.io/">Hugo</a>. This allows your to create pages for your website using <a href="https://www.markdownguide.org/">Markdown</a>, and <a href="https://gohugo.io/">Hugo</a> will handle creating the relevant HTML and CSS files. You can also very easily use a wide variety of <a href="https://themes.gohugo.io/">Hugo themes</a>, that will handle how your pages should be displayed and their formatting.</p>
+<p>For this website, I use <a href="https://lukesmith.xyz">Luke Smith&rsquo;s</a> Hugo theme &mdash; <a href="https://github.com/LukeSmithxyz/lugo">Lugo</a>. He has a YouTube video explaining his theme and how to use <a href="https://gohugo.io/">Hugo</a> in general <a href="https://www.youtube.com/watch?v=ZFL09qhKi5I">here</a>. <a href="https://gohugo.io">Hugo</a> leads to the best of both worlds, where you can create good-looking, minimalist websites, which are completely static and don&rsquo;t depend on bloated dynamic content.</p>
+<h1 id="email-server">Email Server</h1>
+<p>You can also host your own email server on your VPS. This is more than merely having your own email address domain. It means that programs running on your VPS handle both the sending and receiving of emails, and whatever email client you use connects only to your VPS. The LandChad guide on setting up an email server running <a href="https://www.dovecot.org/">Dovecot</a> and <a href="https://www.postfix.org/">Postfix</a> can be found <a href="https://landchad.net/mail/smtp/">here</a>. The instructions in the guide are quite reliant on starting off with specific default config files, which aren&rsquo;t necessary the case and change with new updates. Thus you&rsquo;ll probably have to do some bug-fixing even after following the guide.</p>
+<h1 id="latex">LaTeX</h1>
+<p>Having <a href="https://www.latex-project.org/">LaTeX</a> render properly on <a href="https://gohugo.io/">Hugo</a> websites is actually quite easy using the <a href="https://katex.org/">KaTeX API</a>. I found <a href="https://mertbakir.gitlab.io/hugo/math-typesetting-in-hugo/">this guide</a> by <a href="https://mertbakir.gitlab.io/">Mert Bakir</a> very useful.</p>
+<h1 id="rss">RSS</h1>
+<p>One of the great parts of using the <a href="https://github.com/LukeSmithxyz/lugo">Lugo</a> theme is that an <a href="https://www.rssboard.org/">RSS</a> feed is automatically created for your website, which you can see for yourself at the bottom of this page. This means that people using an RSS reader can easily subscribe and be notified when you create any new pages on your website. It&rsquo;s considered old-school tech now-a-days, but if people start using <a href="https://www.rssboard.org/">RSS</a> conscientiously, then most social media websites would become obsolete. Imagine a world where news and updates from your friends or people/projects you care about get aggregated and sent directly to you where you can view and organise everything in one program you run on your PC. No ads, no tracking, no profit-incentive.</p>
+<h1 id="git">Git</h1>
+<p>I&rsquo;d recommend version controlling the relevant files for your website using <a href="https://git-scm.com/">Git</a>, and hosting the files somewhere publicly accessible. For example, the files for this website are hosted on <a href="https://github.com/">GitHub</a> <a href="https://github.com/IzaacMammadov/personal_website">here</a>. It allows people to easily make pull requests or issues regarding mistakes or out-of-date information. The best personal websites tend to be collaborative efforts.</p>
+
+
+<div id="nextprev">
+<a href="/hedging_desk/"><div id="prevart">Previous:<br>High-Frequency Trading using a Hedging Desk</div></a>
+</div>
+<div style="clear:both" class=taglist>Relevant Tags:<br><a id="tag_libre software" href="https://izaac.mammadov.co.uk/tags/libre-software">Libre Software</a></div>
+</article>
+	<h2 id="contact-me"> Contact me </h2>
+	<p> My email address is <a href="mailto:izaac@mammadov.co.uk">izaac@mammadov.co.uk</a>. If you have any questions or are looking for advice, feel free to get in touch. If you want to make any requests or additions to this website, feel free to make a pull request on this website's <a href="https://github.com/IzaacMammadov/personal_website">GitHub</a>.</p>
+	<h2 id="buttons">Buttons</h2>
+	<p><img src="https://projecteuler.net/profile/StayWoke.png" alt="Project Euler progress showing number of solved problems" title="My Project Euler progress" width="200" height="60"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" alt="Creative Commons BY-SA" title="Creative Commons BY-SA" width="200" height="60"></p>
+</main>
+
+<footer>
+	<a href="https://izaac.mammadov.co.uk">https://izaac.mammadov.co.uk</a><br><br><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+</footer>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: "$$", right: "$$", display: true},
+                {left: "$", right: "$", display: false}
+            ]
+        });
+    });
+</script>
+</body>
+</html>
