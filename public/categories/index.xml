@@ -10,6 +10,25 @@
 	
 	
 	<item>
+		<title>Install Activated Windows for Free, legally</title>
+		<link>https://izaac.mammadov.co.uk/windows-activation/</link>
+		<pubDate>Sun, 14 Jan 2024 20:43:46 +0000</pubDate>
+		
+		<guid>https://izaac.mammadov.co.uk/windows-activation/</guid>
+		<description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The day may unfortunately come when you are required to use the Windows operating system, usually for work obligations. Not only are you forced to use Windows, but Microsoft also tries to pressure you into paying for the &amp;ldquo;privilege&amp;rdquo; of using their operating system. At the time of writing, Windows 11 Home edition is currently being sold for £120.00! There are also many third-party sellers selling Windows Activation Keys for a cheaper price, although a lot of them are scams/unreliable. What most people don&amp;rsquo;t realise is that you can download, install, and activate Windows without ever paying a penny.&lt;/p&gt;
+&lt;h1 id=&#34;download&#34;&gt;Download&lt;/h1&gt;
+&lt;p&gt;This guide is designed to work for people on Linux distros. Microsoft has a much easier process to download Windows if you already have access to a Windows machine, but this guide works for everyone. You first need to download the Windows Disk Image ISO from &lt;a href=&#34;https://www.microsoft.com/software-download/windows11&#34;&gt;here&lt;/a&gt; on the Microsoft website. This download is very slow from Microsoft, regardless of how quick your internet speeds are, but unfortunately you&amp;rsquo;ll have to wait it out. It took ~2 hours for me to complete. Downloading from a torrent may be much quicker, but I wouldn&amp;rsquo;t trust any public torrent for things like this.&lt;/p&gt;
+&lt;p&gt;You then need to flash this ISO onto a USB stick. The particular disk formatting/labelling and partitions that Windows requires is frustratingly precise and very delicate (unlike installing Linux operating systems). Thus I would recommend using a third-party tool like &lt;a href=&#34;https://github.com/WoeUSB/WoeUSB&#34;&gt;WoeUSB&lt;/a&gt; to do the work for you. You simply specify the ISO file, your USB stick&amp;rsquo;s partition, and let it do its thing. With &lt;a href=&#34;https://github.com/WoeUSB/WoeUSB&#34;&gt;WoeUSB&lt;/a&gt;, I&amp;rsquo;d recommend ticking the skip legacy grub bootloader flag to save time. Note that whatever method you use, this flashing process also takes up a lot of time depending on the write speed of your USB stick. You should also ensure that you do not remove your USB stick until you have ran the &lt;code&gt;sync&lt;/code&gt; command.&lt;/p&gt;
+&lt;h1 id=&#34;installation&#34;&gt;Installation&lt;/h1&gt;
+&lt;p&gt;Once you have flashed Windows onto your USB stick, you can insert it into your computer and then on startup, it will either automatically boot from the USB stick, or you will manually have to interrupt the boot process by spamming F12, Enter, Esc, or some other key and specify that you want to boot from the USB stick. At some stage after hitting &amp;ldquo;Next&amp;rdquo; a few times, Windows will prompt you to enter in a License Key. What most people don&amp;rsquo;t realise is that you can simply click on &amp;ldquo;I do not have a License Key&amp;rdquo;, and the installation process will continue exactly as normal. No purchase required.&lt;/p&gt;
+&lt;p&gt;The problem however is that your Windows will be &amp;ldquo;unactivated&amp;rdquo;. This has very little effect for most people, beyond just the fact that you won&amp;rsquo;t be able to change your background wallpaper, and there&amp;rsquo;ll be an ugly activation message in the bottom right hand corner of your Desktop. Luckily, you can also activate your Windows for free and very easily.&lt;/p&gt;
+&lt;h1 id=&#34;activation&#34;&gt;Activation&lt;/h1&gt;
+&lt;p&gt;Luckily, Microsoft leaves behind a lot of backdoors for Microsoft technicians and their various services to be able to activate Windows even without a valid product key. But any of us can also use those same backdoors. I recommend the program found at &lt;a href=&#34;https://massgrave.dev/&#34;&gt;massgrave.dev&lt;/a&gt; to do this for you. If you follow the instructions on that website, which involve basically just running one command in your terminal, you&amp;rsquo;ll end up with a completely activated Windows installation. It&amp;rsquo;s completely indistinguishable from what most people would have to pay £120 for.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Making a Website</title>
 		<link>https://izaac.mammadov.co.uk/making-a-website/</link>
 		<pubDate>Sun, 10 Dec 2023 03:30:25 +0000</pubDate>
