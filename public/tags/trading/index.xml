@@ -11,6 +11,30 @@
 	
 	
 	<item>
+		<title>Advent of Code 2023</title>
+		<link>https://izaac.mammadov.co.uk/aoc_2023/</link>
+		<pubDate>Mon, 19 Feb 2024 17:59:07 +0000</pubDate>
+		
+		<guid>https://izaac.mammadov.co.uk/aoc_2023/</guid>
+		<description>&lt;p&gt;The &lt;a href=&#34;https://adventofcode.com/2023&#34;&gt;Advent of Code&lt;/a&gt; is an annual programming competition that takes place in the run-up to Christmas (between 1st December and 25th Decemeber), run by &lt;a href=&#34;http://was.tl/&#34;&gt;Eric Wastl&lt;/a&gt;. The challenges start off pretty easy (do-able by anyone who knows the basics of any programming langauge) but scale up in difficulty quickly. There is a leaderboard for the quickest time to solve problems globally (which has some insanely fast times), but I think the most fun is had as part of a private leaderboard between your friends. Unfortunately for those based in Europe, the problems are released at 5am UTC every day.&lt;/p&gt;
+&lt;p&gt;I took part last year and got up to Day 22 before I had to give up. I decided to stop the first time I didn&amp;rsquo;t/couldn&amp;rsquo;t solve a problem on the day that it was released. Here are my times on the days that I woke up at 5am to do the problem:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;      --------Part 1--------   --------Part 2--------
+Day       Time   Rank  Score       Time   Rank  Score
+ 22   01:06:29   1519      0   01:22:55   1322      0  [Started 15m late]
+ 20   00:46:17    812      0   01:21:40    821      0
+ 19   00:15:45    387      0   01:04:15   1065      0
+ 18   00:42:51   2437      0   01:54:40   2434      0
+ 17   00:47:14   1200      0   01:19:54   1474      0
+ 16   00:27:13   1319      0   00:36:17   1382      0
+ 11   00:15:43   1313      0   00:38:29   3126      0
+ 10   00:16:16    324      0   00:48:15    319      0
+  4   00:05:35    948      0   00:10:04    361      0
+  1   00:03:34   1047      0   00:12:44    702      0
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Also if you&amp;rsquo;re interested to see my solutions to the problems, then they&amp;rsquo;re available &lt;a href=&#34;https://github.com/IzaacMammadov/AOC-2023&#34;&gt;here on GitHub&lt;/a&gt;. I found that a lot of time could be saved by pre-coding simple functions to do most of the pre-processing for me. That&amp;rsquo;s probably what I&amp;rsquo;ll work on before this year&amp;rsquo;s set of problems. I encourage everyone who knows how to code to take part this year (in circa 10 months)!&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Install Activated Windows for Free, legally</title>
 		<link>https://izaac.mammadov.co.uk/windows-activation/</link>
 		<pubDate>Sun, 14 Jan 2024 20:43:46 +0000</pubDate>
