@@ -5,10 +5,131 @@
 	<description>Recent content in Tags on Izaac&#39;s Website</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-gb</language>
-	<lastBuildDate>Mon, 19 Feb 2024 17:59:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Feb 2024 19:50:08 +0000</lastBuildDate>
     
         <atom:link href="https://izaac.mammadov.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Making and Running a Limited Company</title>
+		<link>https://izaac.mammadov.co.uk/making-a-limited-company/</link>
+		<pubDate>Mon, 19 Feb 2024 19:50:08 +0000</pubDate>
+		
+		<guid>https://izaac.mammadov.co.uk/making-a-limited-company/</guid>
+		<description>&lt;h1 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h1&gt;
+&lt;p&gt;Note all of the advice below is based on my personal experience of setting up a limited company in England. I am also not a financial professional and have no financial qualifications. If in doubt, find and pay for a financial professional. I&amp;rsquo;ve managed to set up and run everything without paying a penny, but your mileage may vary.&lt;/p&gt;
+&lt;h1 id=&#34;motivation&#34;&gt;Motivation&lt;/h1&gt;
+&lt;p&gt;Here are some reasons why it makes sense to do whatever you do to make money via a limited company:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tax&lt;/strong&gt;: Any income you earn under your own name, you&amp;rsquo;d be liable to pay Income Tax for, while in general, if you earn money under a limited company you&amp;rsquo;ll only have to pay Corporation Tax. In most of the West, Corporation Tax is lower than Income Tax. However, note that you&amp;rsquo;d be liable to pay more tax when you withdraw money from your company as I&amp;rsquo;ll explain below, but overall you&amp;rsquo;ll still be better off.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Share Structure&lt;/strong&gt;: You get to decide how to structure ownership and voting rights in your company by allocating shares. You also get to sell ownership/voting rights in your company by issuing new shares in exchange for equity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Respect&lt;/strong&gt;: Unfortunately, in dealing with suppliers and clients, they won&amp;rsquo;t treat you as well, or perhaps won&amp;rsquo;t work with you at all if you are a sole individual. Having a limited company gives you access to &amp;ldquo;corporate/business&amp;rdquo; services from various providers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limited Liability&lt;/strong&gt;: If you ever unfortunately get into the situation where your company cannot meet its debt obligations, the company will become bankrupt, but your personal liability is limited (hence the name limited company). Your liability is limited to the total par value of all your shares, which can easily be set to be £1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;incorporation&#34;&gt;Incorporation&lt;/h1&gt;
+&lt;p&gt;Incorporation is the process by which you create a new limited company. In doing so, you have a number of decisions to make.&lt;/p&gt;
+&lt;h2 id=&#34;directors&#34;&gt;Directors&lt;/h2&gt;
+&lt;p&gt;Firstly, you must decide who your directors will be. Directors are the people who are legally responsible for everything the company does, and are the ones who must sign off on every tax return and accounts produced for the company. They are also who propse the amount of dividends to be paid at any time. They must be 16 years old or older and must have an office address in the UK. Their details will be made public on Companies House. The simplest case is just to have yourself be the only director.&lt;/p&gt;
+&lt;h2 id=&#34;shareholders&#34;&gt;Shareholders&lt;/h2&gt;
+&lt;p&gt;You must then decide on the initial share structure of the company. You assign some number of shares individually to at least one person. Shareholders will receive dividends, and in general have ownership rights proportional to the number of shares they own. Each share has a par value (also called nominal value). This par value sets what your liability is if your company goes bankrupt. You can think of it as a deposit you pay against the company going bankrupt. If the company winds up (the term for closing up shop), with all its debts paid, you&amp;rsquo;ll receive it back alongside the proportion of company assets you are entitled to. If not, then that money goes to whatever creditors you owe. The sum of the par value of all the shares issued is called your share capital. The simplest case is issuing one share to yourself, with a par value of £1.&lt;/p&gt;
+&lt;p&gt;You are also allowed to issue many different types of shares, each with different par values, different dividend rights, different voting rights and different priorities for claiming company assets when the company winds up. A common structure is to issue a different type of &amp;ldquo;B-shares&amp;rdquo; which are pretty similary to the ordinary shares, except dividends are paid separately to the &amp;ldquo;B-shares&amp;rdquo; from the ordinary shares. Thus you can tailor how much dividend to pay out to the ordinary shareholder(s) vs the B-shareholder(s).&lt;/p&gt;
+&lt;p&gt;If you ever get into the position to have people wanting to invest in your company, then you will need to issue shares to them at a price you set. The price that you sell each share for doesn&amp;rsquo;t have to equal the par value of the share. Any extra amount will be marked as &amp;ldquo;share premium&amp;rdquo;. You cannot issue the shares for a price less than the par value though. The par value acts almost as a floor price that you can issue shares at.&lt;/p&gt;
+&lt;h2 id=&#34;form&#34;&gt;Form&lt;/h2&gt;
+&lt;p&gt;Once you&amp;rsquo;ve decided on these points, it&amp;rsquo;s merely a case of filling out an online application form &lt;a href=&#34;https://www.tax.service.gov.uk/register-your-company/setting-up-new-limited-company&#34;&gt;here&lt;/a&gt;. Note this application form will at the same time register you for Corporation Tax, which you might as well do since you&amp;rsquo;ll need to do so anyway. In my experience, it took only 12 hours for Companies House to get back to me with a certificate of incorporation, but signing up for Corporation Tax took around 2 weeks for them to get back to me.&lt;/p&gt;
+&lt;h1 id=&#34;finances&#34;&gt;Finances&lt;/h1&gt;
+&lt;p&gt;Now that you are the director of a limited company, it is your responsbility to keep track of your company finances (or hiring an accountant/bookkeeper to do so). There are many paid software solutions out there, but if you are running a very small company, which doesn&amp;rsquo;t have too many transactions, I found that I can keep track of everything on a simple spreadsheet. They key to every piece of accounting software is the concept known as double-entry accounting, which ensures that all money is always &amp;ldquo;accounted&amp;rdquo; for.&lt;/p&gt;
+&lt;h2 id=&#34;the-accounting-equation&#34;&gt;The Accounting Equation&lt;/h2&gt;
+&lt;p&gt;The purpose of double-entry accounting is to ensure that transactions are recorded in a way which maintains the truth of the accounting equation. The accounting equation (at year-end) states that: &lt;code&gt;Assets = Liabilities + Equity&lt;/code&gt;. Assets represents the price of all money (both actual and owed to it) and goods that the company has in its possession. Liabilities represents the price of all the money the company owes to other people. The year-end accounting equation simply states that all the assets the company has that isn&amp;rsquo;t being used for liabilities is equity. Equity can be thought of as the value of all the shareholders&amp;rsquo; claims to the company. Equity is the &amp;ldquo;book value&amp;rdquo; of the company.&lt;/p&gt;
+&lt;p&gt;When it isn&amp;rsquo;t year-end, then the accounting equation has a longer form as follows: &lt;code&gt;Assets = Liabilities + Equity + Revenue - Expenses&lt;/code&gt;. This is to reflect that in the middle of the year, equity isn&amp;rsquo;t being constantly increased and decreased as money is earned/lost. Instead, everytime money is earned, it is marked up as revenue, and everytime money is lost, it is marked as an expenses. Then at the end of the year, &lt;code&gt;Revenue - Expenses&lt;/code&gt; is zeroed out, and squashed into Equity as &amp;ldquo;Retained Earnings&amp;rdquo; which will be described below.&lt;/p&gt;
+&lt;h2 id=&#34;accounts&#34;&gt;Accounts&lt;/h2&gt;
+&lt;p&gt;Accounts are the way accountants track where your money is. They include things we normally think of as accounts, such as bank accounts, but also include things we don&amp;rsquo;t normally think of as accounts. Each account has a name and falls under exactly one category: Assets, Liabilities, Equity, Revenue, Expenses. Each account has a value, and summing the account values under the respective categories must lead to the intra-year accounting equation being true. The easiest way to explain accounts is to simply give some examples of what they may look like and the categories they fall under:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bank Account X (Assets)&lt;/li&gt;
+&lt;li&gt;Computer Equipment (Assets)&lt;/li&gt;
+&lt;li&gt;Cash in Hand (Assets)&lt;/li&gt;
+&lt;li&gt;Client Y Accounts Receivable i.e. Money you&amp;rsquo;re owed from Client Y (Assets)&lt;/li&gt;
+&lt;li&gt;Savings Account Z (Assets)&lt;/li&gt;
+&lt;li&gt;Share Capital (Equity)&lt;/li&gt;
+&lt;li&gt;Share Premium (Equity)&lt;/li&gt;
+&lt;li&gt;Retained Earnings (Equity)&lt;/li&gt;
+&lt;li&gt;Dividends Payable (Equity)&lt;/li&gt;
+&lt;li&gt;Bank Loan (Liabilities)&lt;/li&gt;
+&lt;li&gt;Supplier A Accounts Payable i.e. Money you owe to Supplier A (Liabilities)&lt;/li&gt;
+&lt;li&gt;Trading Revenue Jan 2025 (Revenue)&lt;/li&gt;
+&lt;li&gt;Loan Interest (Expenses)&lt;/li&gt;
+&lt;li&gt;Admin/Stationery Costs (Expenses)&lt;/li&gt;
+&lt;li&gt;Personnel Costs / Salaries (Expenses)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most likely the only confusion in the list above comes from the accounts falling under Equity. Heres an explanation for those accounts. Share Capital is the sum of all the par values that shareholders paid for their shares when they were issued. In fact, if you incorporated your company with one shareholder, with one share with a par value of £1, you have to actually give your company £1 and have it recorded under share capital. Share Premium is all of the excess amounts above par value that people paid when their shares were issued. This will tend to be £0 until you start selling shares to people. Retained Earnings, as described above, is where the profit (Revenue - Expenses) goes at the end of the year. You can think of it as te profit that the company has chosen to keep for itself, but that still &amp;ldquo;belongs&amp;rdquo; to the shareholders. Dividends Payable represent dividends that have been announced by your company but haven&amp;rsquo;t been paid out yet.&lt;/p&gt;
+&lt;h2 id=&#34;double-entry&#34;&gt;Double-Entry&lt;/h2&gt;
+&lt;p&gt;Double-Entry is a system of tracking transactions. It says that every transaction must have a &amp;ldquo;Credit Account&amp;rdquo; and a &amp;ldquo;Debit Account&amp;rdquo;, and a fixed numerical value. For example, if I move £10 from Bank Account A to Bank Account B, then the credit account will be Bank Account A, the debit account will be Bank Account B, and the value will be £10. This means that money can never appear or disappear out of nowhere. In order to maintain the intra-year accounting equation, there is a sign convention related to the what category an account falls under. The sign convention states that for accounts falling under &amp;ldquo;Assets&amp;rdquo; or &amp;ldquo;Expenses&amp;rdquo;, then a debit will increase their value and a credit will decrease their value. For accounts falling under &amp;ldquo;Liabilities&amp;rdquo;, &amp;ldquo;Equity&amp;rdquo; or &amp;ldquo;Revenue&amp;rdquo;, a credit will increase their value and a debit will decrease their value. Once again, the easiest way to explain double-entry transactions is just to give some examples and their effects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Issuing a share of par value £1 at par [This is usually the very first transaction the company makes]
+&lt;ul&gt;
+&lt;li&gt;Credit: Share Capital (+£1)&lt;/li&gt;
+&lt;li&gt;Debit: Bank Account (+£1)&lt;/li&gt;
+&lt;li&gt;Value: £1&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Buying a Computer
+&lt;ul&gt;
+&lt;li&gt;Credit: Bank Account (-£1000)&lt;/li&gt;
+&lt;li&gt;Debit: Computer Equipment (+£1000)&lt;/li&gt;
+&lt;li&gt;Value: £1000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Paying Wages
+&lt;ul&gt;
+&lt;li&gt;Credit: Bank Account (-£5000)&lt;/li&gt;
+&lt;li&gt;Debit: Personnel Costs / Salaries (+£5000)&lt;/li&gt;
+&lt;li&gt;Value: £5000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Receiving a Bank Loan
+&lt;ul&gt;
+&lt;li&gt;Credit: Bank Loan (+£10000)&lt;/li&gt;
+&lt;li&gt;Debit: Bank Account (+£10000)&lt;/li&gt;
+&lt;li&gt;Value: £10000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Trading Revenue for January 2025
+&lt;ul&gt;
+&lt;li&gt;Credit: Trading Revenue Jan 2025 (+£20000)&lt;/li&gt;
+&lt;li&gt;Debit: Bank Account (+£20000)&lt;/li&gt;
+&lt;li&gt;Value: £20000&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to check that each of the transactions above maintains the truth of the intra-year accounting equation. This is the magic of double-entry accounting with the appropriate sign convention for debits and credits. Note that, some transactions, especially involving VAT, othe taxes, or foreign currencies may have multiple debits and multiple credits with separate values. However, the golden rule is that the value of the credits must sum to the value of debits.&lt;/p&gt;
+&lt;h2 id=&#34;depreciation&#34;&gt;Depreciation&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ll see that when you buy an asset, it gets marked at precisely the price you bought it for. However, eventually when you have to dispose of the asset (sell it, or chuck it away because it&amp;rsquo;s worthless), it will look like you are losing lots of money. Depreciation is the process by which you spread the reduction in value of an asset over the course of its useful life. For example, if you buy a computer, which you expect to be useful for 10 years, you can reduce its value by 10% evey year. Thus after 10 years, it will be worthless. Depreciation is just a way to keep track of what the actual value of assets are, and not just what you paidd for them. Depreciation transactions would have the asset in question as the Credit, and then a Depreciation (Expenses) account as the Debit.&lt;/p&gt;
+&lt;p&gt;You do not have to worry too much about making your depreciation schemes to be as precise as possible. This is because depreciation doesn&amp;rsquo;t affect how much Corporation Tax you pay. Depreciation isn&amp;rsquo;t considered an expense for the purposes of Corporation Tax (to stop people fudging their numbers too much). Instead, you can claim back Corporation Tax on money you spend on &amp;ldquo;plant and machinery&amp;rdquo; via Capital Allowances. Note that plant is a very general term covering many different things.&lt;/p&gt;
+&lt;h1 id=&#34;annual-requirements&#34;&gt;Annual Requirements&lt;/h1&gt;
+&lt;p&gt;Every year, you&amp;rsquo;ll have to do a number of things to keep your company running.&lt;/p&gt;
+&lt;h2 id=&#34;confirmation-statement&#34;&gt;Confirmation Statement&lt;/h2&gt;
+&lt;p&gt;Every year, you&amp;rsquo;ll have to fill out a confirmation statement and pay ~£20. This is basically just you confirming that everything you filled out on your initial incorporation form is still true, and nothing has changed in the past year.&lt;/p&gt;
+&lt;h2 id=&#34;accounts-1&#34;&gt;Accounts&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ll also have to submit your accounts. For larger companies, this can be a very arduous process, but if you qualify as a &amp;ldquo;micro-entity&amp;rdquo;, which basically means you are a small enough company, your accounts can be quite heavily abridged. For a template of what has to be included on micro-entity accounts, feel free to search for &amp;ldquo;micro-entity accounts statutory requirements&amp;rdquo;, or view the official standard &lt;a href=&#34;https://media.frc.org.uk/documents/FRS_105_The_Financial_Reporting_Standard_applicable_to_the_Micro-entities_Regime.pdf&#34;&gt;here&lt;/a&gt; called FRS 105. The main contents will be a very basic balance sheet (stating your assets, liabilities and making sure the difference lines up with your equity), and a basic Profit/Loss statement, outlining your revenues and expenses.&lt;/p&gt;
+&lt;h2 id=&#34;corporation-tax-ct600&#34;&gt;Corporation Tax (CT600)&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ll also have to file your Corporation Tax return, named CT600, and pay the Corporation Tax due. Here you fill out details about your profits, and claim any Capital Allowances you are entitled to, and then pay the Corporation Tax that you owe.&lt;/p&gt;
+&lt;h2 id=&#34;vat&#34;&gt;VAT&lt;/h2&gt;
+&lt;p&gt;You&amp;rsquo;ll also have to file a VAT return, if you are not exempt from paying VAT. As the company I run is exempt from VAT, I don&amp;rsquo;t have much personal experience on this point. In general, you&amp;rsquo;ll have to outline all of your VAT inputs and outputs (VAT you paid on goods and services you bought versus VAT you charged for goods and services you sold).&lt;/p&gt;
+&lt;h1 id=&#34;taking-money-out-of-your-company&#34;&gt;Taking Money out of your Company.&lt;/h1&gt;
+&lt;p&gt;Unfortunately, money that your company makes isn&amp;rsquo;t automatically yours to spend as you please, and you can get into real trouble for doing so. You have to officially pay yourself the money, and there are 3 ways to do so.&lt;/p&gt;
+&lt;h2 id=&#34;salarypayroll&#34;&gt;Salary/Payroll&lt;/h2&gt;
+&lt;p&gt;In this case, you pay yourself as you would pay an employee. This is reported everytime your pay yourself to HMRC via a system known as PAYE. You&amp;rsquo;ll have to register and sign up to PAYE before you use it. Once registered, I use HMRC&amp;rsquo;s own application (which supports Linux) called PAYE Tools to submit PAYE returns. The double entry transaction be simple be Credit: Bank Account (where you pay yourself from) Debit: Salary / Personnel Costs. You may also have to credit some income tax witholding / national insurance witholding Liabilities accounts if your had to pay those. As long as the total sum of the debits equals the total sum of the credits you are fine.&lt;/p&gt;
+&lt;p&gt;When you pay yourself, this counts as an expense to your company, so you won&amp;rsquo;t have to pay Corporation Tax on the amount, but you will have to pay Income Tax and both Employees and Employers National Insurance on the amount. You&amp;rsquo;ll be told how much this is when you submit your PAYE return. The general advice is that you should only pay yourself up to your Income Tax Personal Allowance (where you get charged 0% Income Tax). Past that, paying yourself a salary is the most tax-inefficient ways to take money out of your company. If you have more than one employee, you can also qualify for Employment Allowance which reduces your National Insurance liability.&lt;/p&gt;
+&lt;h2 id=&#34;dividends&#34;&gt;Dividends&lt;/h2&gt;
+&lt;p&gt;In order to pay yourself dividends, you&amp;rsquo;ll have to hold a Director&amp;rsquo;s meeting (which may just be a meeting by yourself in a room), record minutes of the meeting, and vote (by yourself again) to declare a certain dividend amount per share. The simplest form is to declare a dividend amount of £X per share, so that ever shareholder is paid £X per share they own. You&amp;rsquo;ll then have to give yourself a dividends receipt. Note, that dividends can only be declared from any profits you have. Your assets subtracted by your liabilities must be greater than the total amount of dividends you declare. The double entry transaction will be first Credit: Dividends Payable, Debit: Retained Earnings, and then Credit: Bank Account (where you pay the dividends from), Debit: Dividends Payable.&lt;/p&gt;
+&lt;p&gt;Dividends are paid from profits, and so you still have to pay corporation tax on whatever diviends you paid out. However, you don&amp;rsquo;t have to pay Income Tax or any kind of National Insurance. Instead, the individual must pay Dividends Tax in their next April tax return (which is lower than Income Tax). Thus overall, dividends is a more tax-efficient way to pay yourself usually.&lt;/p&gt;
+&lt;h2 id=&#34;directors-loan&#34;&gt;Director&amp;rsquo;s Loan&lt;/h2&gt;
+&lt;p&gt;This isn&amp;rsquo;t really a way of taking money out of a company, but rather of your company loaning you money, which you must pay back. When the company is loaning you money, this is very much a headache and usually never worth doing. You must charge yourself a statutory rate of interest, which counts as profit for the company (resulting in more tax), and you must pay it back within certain time limits and not exceed certain amounts, or pay hefty tax bills.&lt;/p&gt;
+&lt;p&gt;However, on the flip side, you can also loan your company money. This does make sense to do when your company is starting out and needs some extra cash to get started. You can charge the company whatever reasonable rate of interest you want (and it makes sense to charge a decent amount), which the company then has to pay back. This way you can net take money out of the company via that interest payment. However note, that that interest payment counts as income, and so you&amp;rsquo;ll have to pay income tax on it. In fact, the company itself has to withold 20% Income tax on it before it pays it to you, using &lt;a href=&#34;https://www.gov.uk/government/publications/corporation-tax-return-of-income-tax-on-company-payments-ct61&#34;&gt;Form CT61&lt;/a&gt;. However, because the interest payments count as an expense for the company (thus no corporation tax), and the income is not liable for any national insurance, it is still very tax efficient. I wouldn&amp;rsquo;t suggest loaning your company money just to get interest payments, but if you company needs the money anyway, it makes sense to charge a reasonable but decent level of interest.&lt;/p&gt;
+&lt;h2 id=&#34;winding-up&#34;&gt;Winding Up&lt;/h2&gt;
+&lt;p&gt;This is also definitely not really a way of taking money out of a company, but it&amp;rsquo;s useful to keep in mind. If your company is in good shape, has paid all its debts and you want to shut up shop, there are two ways to do so. One is simply by paying yourself via dividends + salary all of the assets that the company has on its books, and then &amp;ldquo;striking off&amp;rdquo; the company from the register. Any assets remaining owned by the company go to the crown. This is the simplest process, but is very tax inefficient.&lt;/p&gt;
+&lt;p&gt;The tax efficient way to wind up is to do a members voluntary liquidation (MVL). Unfortunately, this can only be done by an official, registered liquidator, who usually charge a decently large fee to do so. However, when all is said and done, they will distribute all of the assets to the shareholders. When all is said and done, you will only have to pay capital gains tax, on the assets you received (in effect you sold your 1 share back to the company and received all of the assets in return). You also have a £6,000 CGT allowance, as well as Business Asset Dispoal Relief (BADR) which reduces the CGT liability to only 10%. You should keep this in mind as it is almost always better to not pay yourself money where you can avoid it, because in the end, once your company winds up, you&amp;rsquo;ll probably only have to pay 10% on it.&lt;/p&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Advent of Code 2023</title>
