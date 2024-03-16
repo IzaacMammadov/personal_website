@@ -1,6 +1,6 @@
 ---
 title: "Making and Running a Limited Company"
-date: 2024-02-25T23:22:34Z
+date: 2024-03-16T20:56:00Z
 draft: false
 tags: ["Life Hacks"]
 ---
@@ -101,6 +101,12 @@ Feel free to check that each of the transactions above maintains the truth of th
 You'll see that when you buy an asset, it gets marked at precisely the price you bought it for. However, eventually when you have to dispose of the asset (sell it, or chuck it away because it's worthless), it will look like you are losing lots of money. Depreciation is the process by which you spread the reduction in value of an asset over the course of its useful life. For example, if you buy a computer, which you expect to be useful for 10 years, you can reduce its value by 10% evey year. Thus after 10 years, it will be worthless. Depreciation is just a way to keep track of what the actual value of assets are, and not just what you paidd for them. Depreciation transactions would have the asset in question as the Credit, and then a Depreciation (Expenses) account as the Debit.
 
 You do not have to worry too much about making your depreciation schemes to be as precise as possible. This is because depreciation doesn't affect how much Corporation Tax you pay. Depreciation isn't considered an expense for the purposes of Corporation Tax (to stop people fudging their numbers too much). Instead, you can claim back Corporation Tax on money you spend on "plant and machinery" via Capital Allowances. Note that plant is a very general term covering many different things.
+
+## Valid Expenses
+
+In general, people who run companies are looking to make as much money as they spend as possible a business expense, as opposed to a person expense. If something is a business expense, then it reduces your corporation tax bill at the end of the year. Unfortunately, HMRC generally only lets you put things down as an expense which are "wholly and exclusively" used for the business. This means you as a person shouldn't be getting any benefit from it, just your company or you as an employee.
+
+However, there are specific expenses which HMRC enumerate as being allowed. I'll note a couple of them. Firstly, all employees which work from home are allowed to be paid £26 a month "working from home" expense to reimburse them for the costs they incur in working from home. This means you as a director and employee can pay yourself this £26 a month tax free. You can actually pay yourself more than this, but only if you have physical proof that the extra costs you incur from working home exceed that amount. This generally means you'll have to show the bills you pay before and after starting working at home and seeing the difference. Secondly you are allowed to expense canteen personnel expenses. You are allowed to treat feeding all your staff + directors as a business expense not incurring any taxation, if it is within the following requirements. It must be a "reasonable" meal, it must be provided either on your premises/primary place of work or in a proper canteen, and it must be available to all employees and directors based in a given location. There is no minimum company size for this to be applicable, thus if you are the only director and employee, I read the guidance to be clear in allowing your company to pay for reasonable meals during working hours if they are delivered to your primary place of work.
 
 # Annual Requirements
 
