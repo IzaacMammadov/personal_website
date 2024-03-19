@@ -12,7 +12,6 @@ Note all of the advice below is based on my personal experience of setting up a 
 
 Here are some reasons why it makes sense to do whatever you do to make money via a limited company:
 
-- **Tax**: Any income you earn under your own name, you'd be liable to pay Income Tax for, while in general, if you earn money under a limited company you'll only have to pay Corporation Tax. In most of the West, Corporation Tax is lower than Income Tax. However, note that you'd be liable to pay more tax when you withdraw money from your company as I'll explain below, but overall you'll still be better off.
 - **Share Structure**: You get to decide how to structure ownership and voting rights in your company by allocating shares. You also get to sell ownership/voting rights in your company by issuing new shares in exchange for equity.
 - **Respect**: Unfortunately, in dealing with suppliers and clients, they won't treat you as well, or perhaps won't work with you at all if you are a sole individual. Having a limited company gives you access to "corporate/business" services from various providers.
 - **Limited Liability**: If you ever unfortunately get into the situation where your company cannot meet its debt obligations, the company will become bankrupt, but your personal liability is limited (hence the name limited company). Your liability is limited to the total par value of all your shares, which can easily be set to be £1.
