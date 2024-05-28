@@ -10,6 +10,21 @@
 	
 	
 	<item>
+		<title>Creating a CV using LaTeX</title>
+		<link>https://izaac.mammadov.co.uk/latex_cv/</link>
+		<pubDate>Tue, 28 May 2024 23:52:44 +0200</pubDate>
+		
+		<guid>https://izaac.mammadov.co.uk/latex_cv/</guid>
+		<description>&lt;h1 id=&#34;latex-overview&#34;&gt;LaTeX Overview&lt;/h1&gt;
+&lt;p&gt;LaTeX is a document typesetting and creation tool. It&amp;rsquo;s what you use if you want to create professional looking documents, letters, presentations, lecture notes, and so on&amp;hellip; Once you graduate from using Microsoft Office, you don&amp;rsquo;t look back. There is a little bit of a learning curve in getting used to using LaTeX, since you have to get used to the fact that you&amp;rsquo;re not going to be typing directly &amp;ldquo;into&amp;rdquo; your document, but it is well worth it. &lt;a href=&#34;https://www.overleaf.com/&#34;&gt;Overleaf&lt;/a&gt; have many very useful guides in both learning how to use LaTeX, and tools to let you create LaTeX documents in your browser. For myself personally, I use &lt;a href=&#34;https://www.texstudio.org/&#34;&gt;TeXstudio&lt;/a&gt; as a program for creating LaTeX documents.&lt;/p&gt;
+&lt;h1 id=&#34;cv-template&#34;&gt;CV Template&lt;/h1&gt;
+&lt;p&gt;The best way to learn how to make beautiful-looking LaTeX documents is to simply look at and copy from what other people have made. To this end, here is a &lt;a href=&#34;https://github.com/IzaacMammadov/CV&#34;&gt;GitHub Repo&lt;/a&gt; which contains the code that I use to make my CV, which you can find &lt;a href=&#34;https://izaac.mammadov.co.uk/CV.pdf&#34;&gt;here&lt;/a&gt;. It has a very minimalistic finance-style layout, and only uses three very common LaTeX packages. It was created without ever manually drawing a horizontal line, or even creating an invisible table like you&amp;rsquo;d have to do if you were using Word.&lt;/p&gt;
+&lt;h1 id=&#34;katex&#34;&gt;KaTeX&lt;/h1&gt;
+&lt;p&gt;LaTeX becomes invaluable when it comes to typesetting mathematical equations and formulae. It is quite easy to get LaTeX to render properly on Hugo static websites using the &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX API&lt;/a&gt;. I&amp;rsquo;d recommend following &lt;a href=&#34;https://mertbakir.gitlab.io/hugo/math-typesetting-in-hugo/&#34;&gt;this guide&lt;/a&gt;, which is what I personally do for this website.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Making and Running a Limited Company</title>
 		<link>https://izaac.mammadov.co.uk/making-a-limited-company/</link>
 		<pubDate>Sat, 16 Mar 2024 20:56:00 +0000</pubDate>
