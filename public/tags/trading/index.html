@@ -50,17 +50,19 @@
 </main>
 
 <footer>
-	<a href="https://izaac.mammadov.co.uk">https://izaac.mammadov.co.uk</a><br><br><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+	<a href="https://izaac.mammadov.co.uk">https://izaac.mammadov.co.uk</a><br><br><a href="/index.xml"><img src="/rss.svg" width="32" height="32" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
 </footer>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        renderMathInElement(document.body, {
-            delimiters: [
-                {left: "$$", right: "$$", display: true},
-                {left: "$", right: "$", display: false}
-            ]
-        });
+	if (typeof renderMathInElement === 'function') {
+            renderMathInElement(document.body, {
+                delimiters: [
+                    {left: "$$", right: "$$", display: true},
+                    {left: "$", right: "$", display: false}
+                ]
+            });
+	}
     });
 </script>
 </body>

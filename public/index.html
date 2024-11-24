@@ -20,7 +20,7 @@ I studied BA Mathematics at Corpus Christi College in the University of Cambridg
 <article>
 <h1 id="izaacs-website">Izaac&rsquo;s Website</h1>
 
-<figure class="normal" style="float: right;"><img src="me.jpg" title="Picture of Me" alt="Picture of Me" width="250px"><figcaption>Picture of Me at Corpus May Ball 2023</figcaption></figure>
+<figure class="normal" style="float: right;"><img src="me.avif" title="Picture of Me" alt="Picture of Me" width="250px" height="250px"><figcaption>Picture of Me at Corpus May Ball 2023</figcaption></figure>
 
 <h2 id="about-me">About me</h2>
 <p>My name is Izaac Mammadov and I&rsquo;m 23 years old. I live in London, UK and this website is me yearning for the old internet that I&rsquo;m too young to have experienced.</p>
@@ -79,17 +79,19 @@ I studied BA Mathematics at Corpus Christi College in the University of Cambridg
 </main>
 
 <footer>
-	<a href="https://izaac.mammadov.co.uk">https://izaac.mammadov.co.uk</a><br><br><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+	<a href="https://izaac.mammadov.co.uk">https://izaac.mammadov.co.uk</a><br><br><a href="/index.xml"><img src="/rss.svg" width="32" height="32" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
 </footer>
 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        renderMathInElement(document.body, {
-            delimiters: [
-                {left: "$$", right: "$$", display: true},
-                {left: "$", right: "$", display: false}
-            ]
-        });
+	if (typeof renderMathInElement === 'function') {
+            renderMathInElement(document.body, {
+                delimiters: [
+                    {left: "$$", right: "$$", display: true},
+                    {left: "$", right: "$", display: false}
+                ]
+            });
+	}
     });
 </script>
 </body>

@@ -1,5 +1,5 @@
 # Izaac's Website
-{{< img src="me.jpg" class=normal caption="Picture of Me at Corpus May Ball 2023" mouse="Picture of Me" alt="Picture of Me" width="250px" style="float: right;">}}
+{{< img src="me.avif" class=normal caption="Picture of Me at Corpus May Ball 2023" mouse="Picture of Me" alt="Picture of Me" width="250px" height="250px" style="float: right;">}}
 ## About me
 My name is Izaac Mammadov and I'm 23 years old. I live in London, UK and this website is me yearning for the old internet that I'm too young to have experienced.
 
