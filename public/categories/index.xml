@@ -10,6 +10,21 @@
 	
 	
 	<item>
+		<title>Urbit</title>
+		<link>https://izaac.mammadov.co.uk/urbit/</link>
+		<pubDate>Sun, 24 Nov 2024 04:02:15 +0000</pubDate>
+		
+		<guid>https://izaac.mammadov.co.uk/urbit/</guid>
+		<description>&lt;h1 id=&#34;what-is-urbit&#34;&gt;What is Urbit?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://urbit.org/&#34;&gt;Urbit&lt;/a&gt; is an incredibly ambitious project which aims to have an entirely clean-slate appraoch to the entire computing stack. It has its own low-level functional-programming language: &lt;a href=&#34;https://docs.urbit.org/language/nock/reference/definition&#34;&gt;Nock&lt;/a&gt; &amp;mdash; it&amp;rsquo;s Turing-Complete, but just about. It also has its own high-level functional programming language: &lt;a href=&#34;https://docs.urbit.org/language/hoon&#34;&gt;Hoon&lt;/a&gt;. Both languages look completely alien at first glance, somewhat intentionally, but amidst the ASCII punctuation marks, you gain an appreciation for their simplicity.&lt;/p&gt;
+&lt;p&gt;Using Hoon (which compiles into Nock), an entirely clean-slate and completely sufficient overlay operating system was built that currently runs on top of Linux/Mac, but theoretically will be able to run on bare metal in the future. The operating system prides itself on being totally deterministic and frozen. The operating system&amp;rsquo;s state is a strict function of all the events it hears about (with some identity entropy added). As such, if you replay all events, it will end up in precisely the same state.&lt;/p&gt;
+&lt;p&gt;Networking is also totally unique, with an identity system based on (currently) a scarce supply of Ethereum Urbit NFTs. Networking takes place between the holders of the NFTs. Holders of rarer NFTs have greater privileges in terms of acting as routing infrastructure for the network.&lt;/p&gt;
+&lt;h1 id=&#34;find-me-on-urbit&#34;&gt;Find me on Urbit&lt;/h1&gt;
+&lt;p&gt;If any of the above has piqued your interest, join the network. Tlon is a company which hosts Urbit instances, and develops the most used application on Urbit, also called Tlon where the community congregates to chat. Click this &lt;a href=&#34;https://tlon.network/lure/~loshut-lonreg/tlon&#34;&gt;link&lt;/a&gt; to receive an Urbit instance, and be able to chat on Tlon with me. If you want to send me a message, my @p is ~diblud-ricbet.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Creating a CV using LaTeX</title>
 		<link>https://izaac.mammadov.co.uk/latex_cv/</link>
 		<pubDate>Tue, 28 May 2024 23:52:44 +0200</pubDate>
