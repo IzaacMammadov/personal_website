@@ -11,6 +11,58 @@
 	
 	
 	<item>
+		<title>Library</title>
+		<link>https://izaac.mammadov.co.uk/library/</link>
+		<pubDate>Sun, 24 Nov 2024 19:43:01 +0000</pubDate>
+		
+		<guid>https://izaac.mammadov.co.uk/library/</guid>
+		<description>&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;p&gt;Here is the list of books I currently either have read, own, or plan on reading, roughly divided into categories:&lt;/p&gt;
+&lt;h3 id=&#34;crypto-and-privacy&#34;&gt;Crypto and Privacy:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Crypto&lt;/strong&gt; by &lt;em&gt;Steven Levy&lt;/em&gt; (ISBN 978-0-140-24432-8) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Five Eyes&lt;/strong&gt; by &lt;em&gt;Richard Kerbaj&lt;/em&gt; (ISBN 978-1-789-46558-7) &amp;mdash; Own, will read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Cryptopians&lt;/strong&gt; by &lt;em&gt;Laura Shin&lt;/em&gt; (ISBN 978-1-541-76301-2) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Trial of Julian Assange&lt;/strong&gt; by &lt;em&gt;Nils Melzer&lt;/em&gt; (ISBN 978-1-839-76622-0) &amp;mdash; Read&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;law-and-society&#34;&gt;Law and Society:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A Republic, if you can keep it&lt;/strong&gt; by &lt;em&gt;Neil Gorsuch&lt;/em&gt; (ISBN 978-0-525-57678-5) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sapiens&lt;/strong&gt; by &lt;em&gt;Yuval Noah Harari&lt;/em&gt; (ISBN 978-0-099-59008-8) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scalia Speaks&lt;/strong&gt; by &lt;em&gt;Antonin Scalia&lt;/em&gt; (ISBN 978-0-525-57332-6) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Federalist&lt;/strong&gt; by &lt;em&gt;Hamilton, Madison, and Jay&lt;/em&gt; (ISBN 978-0-521-00121-2) &amp;mdash; Own, will read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Republic&lt;/strong&gt; by &lt;em&gt;Plato&lt;/em&gt; (ISBN 978-0-140-45511-3) &amp;mdash; Currently reading&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trading&#34;&gt;Trading:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Alpha Trader&lt;/strong&gt; by &lt;em&gt;Brent Donnelly&lt;/em&gt; (ISBN 978-1-736-73981-5) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Finding Alphas&lt;/strong&gt; by &lt;em&gt;Igor Tulchinsky et al.&lt;/em&gt; (ISBN 978-1-119-57121-6) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Liar&amp;rsquo;s Poker&lt;/strong&gt; by &lt;em&gt;Michael Lewis&lt;/em&gt; (ISBN 978-0-393-33869-0) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Option Volatility and Pricing&lt;/strong&gt; by &lt;em&gt;Sheldon Natenberg&lt;/em&gt; (ISBN 978-0-071-81877-3) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Options, Futures and Other Derivatives&lt;/strong&gt; by &lt;em&gt;John C. Hull&lt;/em&gt; (ISBN 978-1-292-41065-4) &amp;mdash; Read&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other&#34;&gt;Other:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fashion, Faith and Fantasy&lt;/strong&gt; by &lt;em&gt;Roger Penrose&lt;/em&gt; (ISBN 978-0-691-17853-0) &amp;mdash; Own, will read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Goedel, Escher, Bach&lt;/strong&gt; by &lt;em&gt;Douglas R. Hofstadter&lt;/em&gt; (ISBN 978-0-465-02656-2) &amp;mdash; Read&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;How To Change Your Mind&lt;/strong&gt; by &lt;em&gt;Michael Pollan&lt;/em&gt; (ISBN 978-0-141-98513-8) &amp;mdash; Read&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;whitepapers-and-textbooks&#34;&gt;Whitepapers and Textbooks&lt;/h2&gt;
+&lt;p&gt;Here is the list of whitepapers or textbooks that I have read through and particularly enjoyed:&lt;/p&gt;
+&lt;h3 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pattern Recognition and Machine Learning&lt;/strong&gt; (Textbook) by &lt;em&gt;Christopher M. Bishop&lt;/em&gt; (ISBN 978-0-387-31073-2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;trading-1&#34;&gt;Trading&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;More Than You Ever Wanted To Know About Volatility Swaps&lt;/strong&gt; by &lt;em&gt;Kresimir Demeterfi et al.&lt;/em&gt; (&lt;a href=&#34;https://emanuelderman.com/wp-content/uploads/1999/02/gs-volatility_swaps.pdf&#34;&gt;https://emanuelderman.com/wp-content/uploads/1999/02/gs-volatility_swaps.pdf&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pricing with a Smile&lt;/strong&gt; by &lt;em&gt;Bruno Dupire&lt;/em&gt; (&lt;a href=&#34;https://www.risk.net/derivatives/equity-derivatives/1500211/pricing-with-a-smile&#34;&gt;https://www.risk.net/derivatives/equity-derivatives/1500211/pricing-with-a-smile&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Micro-Price: A High Frequency Estimator of Future Prices&lt;/strong&gt; by &lt;em&gt;Sasha Stoikov&lt;/em&gt; (&lt;a href=&#34;https://dx.doi.org/10.2139/ssrn.2970694&#34;&gt;https://dx.doi.org/10.2139/ssrn.2970694&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Urbit</title>
 		<link>https://izaac.mammadov.co.uk/urbit/</link>
 		<pubDate>Sun, 24 Nov 2024 04:02:15 +0000</pubDate>
