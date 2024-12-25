@@ -9,7 +9,7 @@ Here's my [LinkedIn](https://www.linkedin.com/in/izaac-mammadov/), my [GitHub](h
 
 ## Currently Reading:
 
-**The Republic** by *Plato*
+**Five Eyes** by *Richard Kerbaj*
 
 View my full library of books and whitepapers [here](library).
 

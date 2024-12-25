@@ -10,7 +10,7 @@ Here is the list of books I currently either have read, own, or plan on reading,
 
 ### Crypto and Privacy:
 - **Crypto** by *Steven Levy* (ISBN 978-0-140-24432-8) --- Read
-- **Five Eyes** by *Richard Kerbaj* (ISBN 978-1-789-46558-7) --- Own, will read
+- **Five Eyes** by *Richard Kerbaj* (ISBN 978-1-789-46558-7) --- Currently reading
 - **The Cryptopians** by *Laura Shin* (ISBN 978-1-541-76301-2) --- Read
 - **The Trial of Julian Assange** by *Nils Melzer* (ISBN 978-1-839-76622-0) --- Read
 
@@ -19,7 +19,7 @@ Here is the list of books I currently either have read, own, or plan on reading,
 - **Sapiens** by *Yuval Noah Harari* (ISBN 978-0-099-59008-8) --- Read
 - **Scalia Speaks** by *Antonin Scalia* (ISBN 978-0-525-57332-6) --- Read
 - **The Federalist** by *Hamilton, Madison, and Jay* (ISBN 978-0-521-00121-2) --- Own, will read
-- **The Republic** by *Plato* (ISBN 978-0-140-45511-3) --- Currently reading
+- **The Republic** by *Plato* (ISBN 978-0-140-45511-3) --- Read
 
 ### Trading:
 - **Alpha Trader** by *Brent Donnelly* (ISBN 978-1-736-73981-5) --- Read
