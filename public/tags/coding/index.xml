@@ -5,10 +5,47 @@
 	<description>Recent content in Coding on Izaac&#39;s Website</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-gb</language>
-	<lastBuildDate>Sun, 24 Nov 2024 04:02:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Dec 2024 12:39:33 +0000</lastBuildDate>
     
         <atom:link href="https://izaac.mammadov.co.uk/tags/coding/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Advent of Code 2024</title>
+		<link>https://izaac.mammadov.co.uk/aoc_2024/</link>
+		<pubDate>Wed, 25 Dec 2024 12:39:33 +0000</pubDate>
+		
+		<guid>https://izaac.mammadov.co.uk/aoc_2024/</guid>
+		<description>&lt;p&gt;Following on from &lt;a href=&#34;https://izaac.mammadov.co.uk/aoc_2023&#34;&gt;last year&lt;/a&gt;, I took part again in this year&amp;rsquo;s &lt;a href=&#34;https://adventofcode.com&#34;&gt;Advent of Code&lt;/a&gt; coding challenges. I would recommend everybody give them a go. I was less consistent about waking up on time to do them when they come out, but for the first time got to end and achieved all 50 stars. My GitHub repo of solutons can be found &lt;a href=&#34;https://github.com/IzaacMammadov/AOC-2024&#34;&gt;here&lt;/a&gt; and my personal times are below:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;    --------Part 1---------   --------Part 2--------
+Day     Time    Rank  Score       Time   Rank  Score
+25  06:02:24   10945      0   06:03:39   7045      0
+24  08:38:04   13733      0   09:51:09   5389      0
+23      &amp;gt;24h   19758      0       &amp;gt;24h  17342      0
+22  06:54:08   12077      0   12:25:49  12454      0
+21  17:55:39   11004      0       &amp;gt;24h  12815      0
+20      &amp;gt;24h   21217      0       &amp;gt;24h  17437      0
+19  14:22:21   20665      0   14:25:05  17905      0
+18  07:06:10   14442      0   07:25:39  13825      0
+17  05:59:41   13360      0   09:41:59   7569      0
+16  07:50:14   12872      0   13:53:55  13160      0
+15  13:24:52   24735      0   16:39:28  18069      0
+14      &amp;gt;24h   33640      0       &amp;gt;24h  30088      0
+13  00:25:18    2684      0   00:59:38   2782      0
+12  00:16:38    1582      0   00:46:48   1316      0
+11  00:08:59    1894      0   00:15:15    844      0
+10  00:20:52    3179      0   00:24:32   2907      0
+9   00:26:08    3096      0   01:22:50   3961      0
+8       &amp;gt;24h   48586      0       &amp;gt;24h  46456      0
+7       &amp;gt;24h   60143      0       &amp;gt;24h  57189      0
+6       &amp;gt;24h   78989      0       &amp;gt;24h  58309      0
+5       &amp;gt;24h   86056      0       &amp;gt;24h  76036      0
+4       &amp;gt;24h  103867      0       &amp;gt;24h  95802      0
+3   00:12:51    5532      0   00:40:11   7874      0
+2   00:20:44    7105      0   00:26:46   4072      0
+1   01:20:30   11458      0   01:23:15  10672      0
+&lt;/code&gt;&lt;/pre&gt;</description>
+	</item>
 	
 	<item>
 		<title>Library</title>
