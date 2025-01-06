@@ -5,10 +5,20 @@
 	<description>Recent content in Tags on Izaac&#39;s Website</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-gb</language>
-	<lastBuildDate>Wed, 25 Dec 2024 12:39:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Jan 2025 22:52:55 +0000</lastBuildDate>
     
         <atom:link href="https://izaac.mammadov.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>CryptoHack</title>
+		<link>https://izaac.mammadov.co.uk/cryptohack/</link>
+		<pubDate>Mon, 06 Jan 2025 22:52:55 +0000</pubDate>
+		
+		<guid>https://izaac.mammadov.co.uk/cryptohack/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;https://cryptohack.org/&#34;&gt;CryptoHack&lt;/a&gt; is a beginner-friendly website for anyone to be able to learn the foundations of cryptography in an interactive way. It provides a wide variety of &amp;ldquo;Capture-the-Flag&amp;rdquo; style cryptography puzzles to help you learn and practice. In my opinion, it does a great job of throwing you in the deep end and gets you to learn by actually hacking, as opposed to being too in the trenches with theory. I&amp;rsquo;d recommend people who are interested to try out the courses/challenges. My profile on CryptoHack is &lt;a href=&#34;https://cryptohack.org/user/IzaacMammadov/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+	</item>
 	
 	<item>
 		<title>Advent of Code 2024</title>
