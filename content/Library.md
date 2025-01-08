@@ -12,6 +12,7 @@ Here is the list of books I currently either have read, own, or plan on reading,
 - **Crypto** by *Steven Levy* (ISBN 978-0-140-24432-8) --- Read
 - **Five Eyes** by *Richard Kerbaj* (ISBN 978-1-789-46558-7) --- Currently reading
 - **The Cryptopians** by *Laura Shin* (ISBN 978-1-541-76301-2) --- Read
+- **The Machine War** by *Noah Kumin* (ISBN 979-8-218-29364-2) --- Read
 - **The Trial of Julian Assange** by *Nils Melzer* (ISBN 978-1-839-76622-0) --- Read
 
 ### Law and Society:
