@@ -14,4 +14,4 @@ Networking is also totally unique, with an identity system based on (currently) 
 
 # Find me on Urbit
 
-If any of the above has piqued your interest, join the network. Tlon is a company which hosts Urbit instances, and develops the most used application on Urbit, also called Tlon where the community congregates to chat. Click this [link](https://tlon.network/lure/~loshut-lonreg/tlon) to receive an Urbit instance, and be able to chat on Tlon with me. If you want to send me a message, my @p is ~diblud-ricbet.
+If any of the above has piqued your interest, join the network. Tlon is a company which hosts Urbit instances, and develops the most used application on Urbit, also called Tlon where the community congregates to chat. Click this [link](https://join.tlon.io/0vvanj5.b5521.t84ll.ru4p1.gso9e) to receive an Urbit instance, and be able to chat on Tlon with me. If you want to send me a message, my @p is ~battul.
