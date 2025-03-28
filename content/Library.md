@@ -17,6 +17,7 @@ Here is the list of books I currently either have read, own, or plan on reading,
 
 ### Law and Society:
 - **A Republic, if you can keep it** by *Neil Gorsuch* (ISBN 978-0-525-57678-5) --- Read
+- **Gray Mirror Fascicle I: Disturbance** by *Curtis Yarvin* (ISBN 978-1-959-40354-8) --- Read
 - **Sapiens** by *Yuval Noah Harari* (ISBN 978-0-099-59008-8) --- Read
 - **Scalia Speaks** by *Antonin Scalia* (ISBN 978-0-525-57332-6) --- Read
 - **The Federalist** by *Hamilton, Madison, and Jay* (ISBN 978-0-521-00121-2) --- Own, will read
